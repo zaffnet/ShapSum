@@ -1,0 +1,79 @@
+Attached is the draft agenda for the workshop. This includes
+the six papers accepted for the first day, 3 panels, an overview
+of the DUC evaluation, and system reports from the DUC participants.
+Please look it over and let me know of any changes necessary.
+In particular check that the affliations are correct and also
+that the author list (for the first day) and the speaker representing
+an organization (for the second day) are correct--I had to guess
+for the speakers for the second day.
+
+Donna
+--------------------------------------------------
+
+July 11:
+
+ Session 1: Chair (Eduard Hovy)
+   9:00-9:30: Using maximum entropy for sentence extraction (Miles Osborne)
+   9:30-10:00 Selecting sentences for multidocument summaries 
+              using randomized local search (Michael White and Claire Cardie)
+  10:00-10:30 Using a text engineering framework to build 
+              an extendable and portable IE-based summarisation system
+             (Diana Maynard, Kalina Bontcheva, Horacio Saggion, Hamish 
+               Cunningham and Oana Hamzai)
+
+  10:30-11:00 break
+
+ Session 2: Chair (Udo Hahn)
+  11:00-11:30 Revisions that improve cohesion in multi-document 
+              summaries: a preliminary study (Jahna C. Otterbacher, 
+              Dragomir R. Radev and Airong Luo)
+  11:30-12:00 Using summaries in document retrieval (Mark Wasson)
+  12:00-12:30 Manual and automatic evaluation of summaries (Chin-Yew Lin and
+              Eduard Hovy)
+
+  12:30-1:30  Lunch
+
+   1:30-2:30  Overview of DUC 2002 (Paul Over)
+   2:30-3:30  Panel 1:  Evaluation (Daniel Marcu)
+
+   3:30-4:00 break
+
+ Panel 2: Roadmap revisited/Resources/What next (Donna Harman)
+   4:00-5:30
+
+
+
+July 12:
+
+ Session 1: Chair (Dragomir Radev)
+   8:30-8:50 Columbia University (Kathleen McKeown)
+   8:50-9:10 GLEANS/ISI (Daniel Marcu)
+   9:10-9:30 TNO TPD (Wessel Kraaij)
+   9:30-9:50 Language Computer Corporation (Sanda Harabagiu)
+ 
+  10:00-10:30 break
+
+ Session 2: Chair (Kathy McKeown)
+  10:30-10:50 University of Lethbridge (Yllias Chali)
+  10:50-11:10 University of Ottawa (Terry Copeck)
+  11:10-11:30 Penn State University (Hongyuan Zha)
+  11:30-11:50 University of Nijmegen (Hans van Halteren)
+
+  12:00-1:00 lunch
+
+ Session 3: Chair (Simone Teufel)
+  1:00-1:20 University of Michigan (Dragomir Radev)
+  1:20-1:40 Katholieke Universiteit Leuven (Marie-Francine Moens)
+  1:40-2:00 IDA/NSA (John Conroy)
+
+ Session 4: Chair (Wessel Kraaij)
+  2:10-2:20 BBN (Richard Schwartz)
+  2:20-2:30 Microsoft/Cambridge (Murat Karamuftuoglu)
+  2:30-2:40 Imperial College (Partha Lal)
+  2:40-2:50 University of Montreal (Atefeh Farzindar)
+  2:50-3:00 NeATs/ISI (Chin-Yew Lin)
+
+  3:00-3:30 break
+
+  3:30-4:30 Wrapup (Karen Sparck Jones)
+

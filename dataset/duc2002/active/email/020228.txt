@@ -1,0 +1,19 @@
+Hi:
+
+John Conroy and co. have contributed a set of 146 extracts created
+from soem of the DUC 2001 training data (abstracts). These are available
+to those with the DUC 2001 data access password from the DUC 2001
+page (look for the link under "Data") Thank you,John.
+
+	<http://www-nlpir.nist.gov/projects/duc/2001.html>
+
+- Paul
+-- 
+Paul Over - Retrieval Group
+	    Information Access Division
+	    Information Technology Laboratory
+	    National Institute of Standards and Technology
+	    Bldg. 225  Rm. A211  (Mailstop 8940)
+	    Gaithersburg, MD  20899-8940   USA
+	    Voice: 301 975-6784    Fax: 301 975-5287
+

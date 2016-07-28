@@ -1,0 +1,17 @@
+Hi,
+
+The results directory now contains a results table for the
+1180 submitted extracts - basic sentence overlap numbers, 
+sentence precision and sentence recall - against one or 
+two model extracts. Many other measures can of course be 
+calculated.
+
+There are also two tar files with the model extracts and
+submitted extracts in a condensed form, namely as lists of
+document-id.sentence-number strings. 
+
+<http://www-nlpir.nist.gov/projects/duc/duc2002/results/>
+
+- Paul
+
+

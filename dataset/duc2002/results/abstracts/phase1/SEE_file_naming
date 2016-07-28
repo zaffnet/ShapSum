@@ -1,0 +1,9 @@
+SEE input summary file format:
+
+ docset.type.length.selector.peer-summarizer.docref 
+ 	(docref for type P only)
+
+SEE output file format:
+
+ OUTPUT.docset.type.length.selector.model-summarizer.assessor.peer-summarizer.docref
+        (docref for type P only)

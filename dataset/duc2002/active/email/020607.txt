@@ -1,0 +1,12 @@
+Hi,
+
+I've added a file to the results directory
+
+	extracts.results.table.manualonly
+
+with two lines for each pair of manual extracts for a 
+given document set. One line using one extract as
+the model and the other line using the other extract.
+
+- Paul
+

@@ -1,0 +1,46 @@
+Hi,
+
+Reminders about submissions which are due at NIST by midnight
+on Sunday, April 14 - earlier if possible... The basic information is 
+on the guidelines webpage under "Submissions and Evaluation". Please 
+take a look at that.
+
+  <http://www-nlpir.nist.gov/projects/duc/2002.html> 
+
+Your submission must conform to the submissions SGML DTD provided 
+there. If it does not parse, then it will not run through the 
+evaluation setup software.
+
+  <http://www-nlpir.nist.gov/projects/duc/duc2002/duc2002submission.dtd>
+
+Make up your own "sysid" - something likely to be unique, not tooooo 
+cryptic, and preferably short (8 chars) so it can eventually be used 
+conveniently on charts etc. 
+
+The body of the abstracts should be just plain English text. 
+
+The body of the extracts will be a sequence of <s>...</s> sentence 
+elements (see the example off the web page).
+
+  <http://www-nlpir.nist.gov/projects/duc/duc2002/example_duc2002submission.sgml>
+
+The words associated with each sentence in an extract should be included 
+if possible so the extract is readable by a human without reference to 
+the documents, but the evaluation will be solely in terms of the docid-num 
+pairs - not the words of the sentences. 
+
+(Note that for abstracts, the document attribute is "docref"
+while in extracts it is "docid". The unintended inconsistency
+is my fault, but may serve to underscore the difference between
+abstracts and extracts.)
+
+Please double check that your submission is complete and correct
+- correct docsets, docrefs/docids, summary types, sizes, etc. It's
+a shame to do all the work and then not get it evaluated due to
+a typo or scripting mistake.
+
+Please email me directly and early if you have looked over the webpage 
+info and still have questions.
+
+Thanks,
+Paul

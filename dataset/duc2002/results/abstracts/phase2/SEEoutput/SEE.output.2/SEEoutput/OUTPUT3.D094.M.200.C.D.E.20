@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SEE [
+
+<!--   XML DESCRIPTIONS                      -->
+<!--   +     Required and repeatable element -->
+<!--   ?     Optional element                -->
+<!--   *     Optional and repeatable element -->
+<!--   ,     elements must follow in this order  -->
+<!--   |     "or" connector (pick one element)   -->
+
+<!--       ELEMENT  MIN  CONTENT -->
+<!ELEMENT  SEE      (PFILE , NPUNIT,  MFILE, NMUNIT,
+                     SRECALL, SPRECISION, LRECALL, LPRECISION,
+                     JQ1, JQ2, JQ3, JQ4, JQ5, JQ6, JQ7, JQ8, JQ9, JQ10, JQ11, JQ12,
+                     Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12,
+		     JUMPU?,
+		     UMPU, MEVALS)> 
+<!ATTLIST  SEE      VERSION CDATA #REQUIRED>
+<!-- Model Summary File -->
+<!ELEMENT  MFILE            (#PCDATA)>
+<!-- Number of Model Summary Units -->
+<!ELEMENT  NMUNIT           (#PCDATA)>
+<!-- Peer Summary File -->
+<!ELEMENT  PFILE            (#PCDATA)>
+<!-- Number of Peer Summary Units -->
+<!ELEMENT  NPUNIT           (#PCDATA)>
+<!-- Strict Recall -->
+<!ELEMENT  SRECALL          (#PCDATA)>
+<!-- Strict Precision -->
+<!ELEMENT  SPRECISION       (#PCDATA)>
+<!-- Lenient Recall -->
+<!ELEMENT  LRECALL          (#PCDATA)>
+<!-- Lenient Precision -->
+<!ELEMENT  LPRECISION       (#PCDATA)>
+<!-- Overall Quality -->
+<!ELEMENT  JQ1        (#PCDATA)>
+<!ELEMENT  JQ2        (#PCDATA)>
+<!ELEMENT  JQ3        (#PCDATA)>
+<!ELEMENT  JQ4        (#PCDATA)>
+<!ELEMENT  JQ5        (#PCDATA)>
+<!ELEMENT  JQ6        (#PCDATA)>
+<!ELEMENT  JQ7        (#PCDATA)>
+<!ELEMENT  JQ8        (#PCDATA)>
+<!ELEMENT  JQ9        (#PCDATA)>
+<!ELEMENT  JQ10       (#PCDATA)>
+<!ELEMENT  JQ11       (#PCDATA)>
+<!ELEMENT  JQ12       (#PCDATA)>
+<!ELEMENT  Q1        (#PCDATA)>
+<!ELEMENT  Q2        (#PCDATA)>
+<!ELEMENT  Q3        (#PCDATA)>
+<!ELEMENT  Q4        (#PCDATA)>
+<!ELEMENT  Q5        (#PCDATA)>
+<!ELEMENT  Q6        (#PCDATA)>
+<!ELEMENT  Q7        (#PCDATA)>
+<!ELEMENT  Q8        (#PCDATA)>
+<!ELEMENT  Q9        (#PCDATA)>
+<!ELEMENT  Q10       (#PCDATA)>
+<!ELEMENT  Q11       (#PCDATA)>
+<!ELEMENT  Q12       (#PCDATA)>
+<!-- Unmarked PUs: need not be included but relevant -->
+<!ELEMENT  JUMPU    (#PCDATA)>
+<!ELEMENT  UMPU    (#PCDATA)>
+<!-- Model Unit Evaluation (Per Model Unit) -->
+<!ELEMENT  MEVALS           (MSID, MUID, PUIDS,
+                             COMPLETENESS)+>
+<!-- Model Unit Serial ID -->
+<!ELEMENT MSID              (#PCDATA)>
+<!-- Model Unit ID -->
+<!ELEMENT MUID              (#PCDATA)>
+<!-- Peer Unit ID -->
+<!ELEMENT PUIDS             (#PCDATA)>
+<!ELEMENT COMPLETENESS      (#PCDATA)>
+
+]>
+<SEE VERSION="3.0">
+<PFILE>/nlpir/duc/duc2002/eval/peer5/D094.M.200.C.20.html</PFILE>
+<NPUNIT>10</NPUNIT>
+<MFILE>/nlpir/duc/duc2002/eval/models/D094.M.200.C.D.html</MFILE>
+<NMUNIT>24</NMUNIT>
+<SRECALL>0.200</SRECALL>
+<SPRECISION>0.083</SPRECISION>
+<LRECALL>0.200</LRECALL>
+<LPRECISION>0.166</LPRECISION>
+<JQ1>1</JQ1>
+<JQ2>1</JQ2>
+<JQ3>1</JQ3>
+<JQ4>1</JQ4>
+<JQ5>1</JQ5>
+<JQ6>1</JQ6>
+<JQ7>1</JQ7>
+<JQ8>1</JQ8>
+<JQ9>1</JQ9>
+<JQ10>1</JQ10>
+<JQ11>1</JQ11>
+<JQ12>1</JQ12>
+<Q1>0</Q1>
+<Q2>0</Q2>
+<Q3>0</Q3>
+<Q4>0</Q4>
+<Q5>1</Q5>
+<Q6>0</Q6>
+<Q7>0</Q7>
+<Q8>1</Q8>
+<Q9>0</Q9>
+<Q10>0</Q10>
+<Q11>0</Q11>
+<Q12>0</Q12>
+<UMPU>60</UMPU>
+<MEVALS>
+<MSID>1</MSID>
+<MUID>1</MUID>
+<PUIDS>10</PUIDS>
+<COMPLETENESS>80</COMPLETENESS>
+<MSID>2</MSID>
+<MUID>2</MUID>
+<PUIDS>NA</PUIDS>
+<COMPLETENESS>0</COMPLETENESS>
+<MSID>3</MSID>
+<MUID>3</MUID>
+<PUIDS>NA</PUIDS>
+<COMPLETENESS>0</COMPLETENESS>
+<MSID>4</MSID>
+<MUID>4</MUID>
+<PUIDS>NA</PUIDS>
+<COMPLETENESS>0</COMPLETENESS>
+<MSID>5</MSID>
+<MUID>5</MUID>
+<PUIDS>NA</PUIDS>
+<COMPLETENESS>0</COMPLETENESS>
+<MSID>6</MSID>
+<MUID>6</MUID>
+<PUIDS>5</PUIDS>
+<COMPLETENESS>60</COMPLETENESS>
+<MSID>7</MSID>
+<MUID>7</MUID>
+<PUIDS>5</PUIDS>
+<COMPLETENESS>100</COMPLETENESS>
+<MSID>8</MSID>
+<MUID>8</MUID>
+<PUIDS>NA</PUIDS>
+<COMPLETENESS>0</COMPLETENESS>
+<MSID>9</MSID>
+<MUID>9</MUID>
+<PUIDS>NA</PUIDS>
+<COMPLETENESS>0</COMPLETENESS>
+<MSID>10</MSID>
+<MUID>10</MUID>
+<PUIDS>NA</PUIDS>
+<COMPLETENESS>0</COMPLETENESS>
+<MSID>11</MSID>
+<MUID>11</MUID>
+<PUIDS>NA</PUIDS>
+<COMPLETENESS>0</COMPLETENESS>
+<MSID>12</MSID>
+<MUID>12</MUID>
+<PUIDS>NA</PUIDS>
+<COMPLETENESS>0</COMPLETENESS>
+<MSID>13</MSID>
+<MUID>13</MUID>
+<PUIDS>NA</PUIDS>
+<COMPLETENESS>0</COMPLETENESS>
+<MSID>14</MSID>
+<MUID>14</MUID>
+<PUIDS>NA</PUIDS>
+<COMPLETENESS>0</COMPLETENESS>
+<MSID>15</MSID>
+<MUID>15</MUID>
+<PUIDS>NA</PUIDS>
+<COMPLETENESS>0</COMPLETENESS>
+<MSID>16</MSID>
+<MUID>16</MUID>
+<PUIDS>NA</PUIDS>
+<COMPLETENESS>0</COMPLETENESS>
+<MSID>17</MSID>
+<MUID>17</MUID>
+<PUIDS>NA</PUIDS>
+<COMPLETENESS>0</COMPLETENESS>
+<MSID>18</MSID>
+<MUID>18</MUID>
+<PUIDS>NA</PUIDS>
+<COMPLETENESS>0</COMPLETENESS>
+<MSID>19</MSID>
+<MUID>19</MUID>
+<PUIDS>NA</PUIDS>
+<COMPLETENESS>0</COMPLETENESS>
+<MSID>20</MSID>
+<MUID>20</MUID>
+<PUIDS>NA</PUIDS>
+<COMPLETENESS>0</COMPLETENESS>
+<MSID>21</MSID>
+<MUID>21</MUID>
+<PUIDS>NA</PUIDS>
+<COMPLETENESS>0</COMPLETENESS>
+<MSID>22</MSID>
+<MUID>22</MUID>
+<PUIDS>NA</PUIDS>
+<COMPLETENESS>0</COMPLETENESS>
+<MSID>23</MSID>
+<MUID>23</MUID>
+<PUIDS>10</PUIDS>
+<COMPLETENESS>100</COMPLETENESS>
+<MSID>24</MSID>
+<MUID>24</MUID>
+<PUIDS>NA</PUIDS>
+<COMPLETENESS>0</COMPLETENESS>
+</MEVALS>
+</SEE>

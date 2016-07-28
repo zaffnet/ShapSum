@@ -1,0 +1,20 @@
+Hi,
+
+I've replaced the short and full results tables for abstracts
+because the actual peer length was incorrect and therefore the
+length-adjusted coverage. Thanks to Marie-Francine Moens for
+making me aware of this problem. 
+
+The strange situation with respect to length-adjusted coverage
+for a summary that is empty still occurs. Although coverage is
+nil you win points for the ultimate in brevity! and come out
+with a score of .333 :-) 
+
+I also removed a half a dozen lines or so which involved a model 
+compared to itself - the leftover debris of an early error in the 
+setup. Since the spreadsheet version of the table of course also
+contained the error I removed it as well.
+
+Sorry for the inconvenience
+Paul
+

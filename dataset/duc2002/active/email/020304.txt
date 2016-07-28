@@ -1,0 +1,164 @@
+Hi,
+
+We've been working on resolving outstanding issues in the
+DUC guidelines. <http://www-nlpir.nist.gov/projects/duc/2002.html>
+
+1 the length-adjusted coverage metric for abstracts
+2 the coverage metric for extracts
+3 questions on summary grammaticality, cohesion, organization
+4 which summaries will be exempted from these questions based
+  length
+
+Here are the results which, barring major objections, will
+become part of the guidelines this week and in some cases will 
+be built into the manual evaulation software - SEE.
+
+1 Length-adjusted coverage metric for abstracts:
+
+  Since there has been no objection to the proposed use
+  of a weighted arithmetric mean to implement a length-adjusted
+  coverage measure, we will use that. You get credit for brevity.
+  <http://www-nlpir.nist.gov/projects/duc/duc2002/covbrev.html>
+
+2 Coverage metric for extracts:
+
+- NIST will calculate at least sentence recall. Others may
+  want to use the Mead tools to calculate other meassures
+  <http://perun.si.umich.edu/clair/meadeval/>
+
+3 Questions on summary grammaticality, cohesion, organization:
+
+- A group of participants has suggested questions on 
+  grammaticality, cohesion, and organization. NIST 
+  tried to select and revise and arrive at a list of
+  manageable size. The list is appended. It still
+  needs to be translated to everyday English and
+  assessor training materials with examples need to
+  be created. 
+
+  ??? One major question for you: How many participating groups
+  think they will find the strictly intra-sentence questions 
+  (1-5) useful - because their system does more than select 
+  and reorder unchanged source document sentences? If no one,
+  does, we can remove them.
+
+4 Which summaries will be exempted from these questions based
+  length
+
+- We propose that the questions be asked for all abstracts
+  except for those with a 10-word target size.
+
+
+Thanks for your help,
+Paul
+
+
+Here are the questions the assessors will answer about 
+each submitted summary without looking at the model 
+summary or at the source documents:
+
+W i t h i n - s e n t e n c e   j u d g e m e n t s 
+
+1 About how many capitalization errors are there?
+   {0, 1-5, 6-10,  more than 10}
+
+
+2 About how many sentences have incorrect word order?
+   {0, 1-5, 6-10,  more than 10}
+   	
+	Examples:
+   	good: John visited the park before Mary
+   	bad:  John before Mary the park visited
+
+
+3 About how many times does the subject fail to agree in number with
+the verb?
+   {0, 1-5, 6-10,  more than 10}
+
+   	Examples:
+   	bad: The men sees a woman with a telescope
+
+
+4 About how many of the sentences are missing important constituents
+(e.g. the subject, main verb, direct object, modifier) - causing
+the sentence to be ungrammatical, unclear, or misleading?
+   {0, 1-5, 6-10,  more than 10}
+   
+   	Examples:
+   	bad: Washington announced.
+   	bad: The agreement, signed in London yesterday, .
+   	bad: Mr. Smith to Washington where he met the senator.
+   	bad: Banco Exterior was run by politicians who lacked the skills 
+             or the will.
+   	bad: The exchange rate is %.
+   	bad: Stewart, the builder.
+   	bad: Tons (of vegetables) will fill damp barns across the land.
+
+
+5 About many times are unrelated fragments joined into one sentence?
+   {0, 1-5, 6-10,  more than 10}
+
+
+
+W i t h i n -   o r   a c r o s s - s e n t e n c e   j u d g e m e n t s 
+
+6 About how many times are determiners used incorrectly?
+   {0, 1-5, 6-10,  more than 10}
+
+  	Examples:
+   	bad: Men saw woman with the telescope
+   	bad: He picked up a book.  A book looked interesting.
+   	bad: El Paso owns and operates refinery.
+
+7  About how many pronouns are there whose antecedents are incorrect,
+missing, or come only later?
+   {0, 1-5, 6-10,  more than 10}
+
+   	Examples:
+   	bad:[opening sentence] Their agreement was signed in Berlin in 1933.
+   	bad: Many Presidents were targets of assassins.  Pres. Reagan was
+             wounded.  He was shot in the Ford Theater in 186?.
+
+
+8  For about how many noun phrases are there whose referent is impossible to
+determine clearly?
+   {0, 1-5, 6-10,  more than 10}
+
+	Take into account pronouns that refer back to 'impossible'
+        antecedents and dangling anaphors.
+
+
+9  About how many names or noun phrases are there that should have been
+pronominalized?
+   {0, 1-5, 6-10,  more than 10}
+
+   	Examples:
+       	bad: Mr. John Smith went to DC. Mr. John Smith saw the senator.
+
+
+10 About how many dangling connectives are there("and", "however"...)?
+   {0, 1-5, 6-10,  more than 10}
+
+   	Examples:
+   	bad: [opening sentence]  However, they came to a good agreement.
+
+
+11 About many instances of unnecessarily repeated information are there?
+   {0, 1-5, 6-10,  more than 10}
+
+
+12 About how many sentences strike you as in the wrong place because they
+indicate a strange time sequence, suggest a wrong cause-effect relationship, 
+or just don't fit in topically with neighboring sentences?
+   {0, 1-5, 6-10,  more than 10}
+
+	
+-- 
+Paul Over - Retrieval Group
+	    Information Access Division
+	    Information Technology Laboratory
+	    National Institute of Standards and Technology
+	    Bldg. 225  Rm. A211  (Mailstop 8940)
+	    Gaithersburg, MD  20899-8940   USA
+	    Voice: 301 975-6784    Fax: 301 975-5287
+

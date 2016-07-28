@@ -1,0 +1,3 @@
+The DUC 2002 manually created extracts are now available on the website. 
+
+<http://www-nlpir.nist.gov/projects/duc/duc2002/test.html>

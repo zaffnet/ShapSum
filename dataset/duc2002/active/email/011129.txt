@@ -1,0 +1,77 @@
+We are sending this to you because you indicated interest
+in following the summarization work going on in DUC.
+There was a very successful first evaluation, with the
+workshop taking place in September.  The online proceedings
+from that workshop are now available on the DUC website.
+
+http://www-nlpir.nist.gov/projects/duc
+
+Also on that website is information about the upcoming
+DUC evaluation, DUC 2002.  Attached for your convenience
+is a call for participation in that workshop.
+
+Hope this is of use to you,
+
+-Donna
+
+
+
+     
+     D U C  2 0 0 2 :   C a l l   f o r   P a r t i c i p a t i o n
+
+                  Document Understanding Conference (DUC)
+
+                          January 2002 - July 2002
+
+                               Conducted by:
+           National Institute of Standards and Technology (NIST)
+
+                             With support from:
+              Defense Advanced Research Projects Agency (DARPA)
+
+Over the last five years, we have witnessed a tremendous increase in
+interest in summarization research from both academia and industry. A
+DARPA program, Translingual Information Detection, Extraction, and
+Summarization (TIDES), specifically calls for major advances in
+summarization technology, both in English and from other languages to
+English (cross-language summarization). As part of this program, NIST
+began a new evaluation series in the area of text summarization,
+called the Document Understanding Conference (DUC).
+
+The first of these evaluations, DUC 2001, took place last September in
+New Orleans. Fifteen groups participated in the evaluation of generic
+summaries of newspaper and newswire data. Various levels of text
+compression were tested, with both single-document summaries and
+summaries of multiple documents (around 10 documents per set) being
+evaluated. Summaries were examined for their coverage and for their
+readability by 10 human judges using software developed at USC/ISI.
+
+You are invited to participate in DUC 2002. Training material is
+available from NIST, and test material will be distributed the end of
+March. The tasks will be very similar to the DUC 2001 tasks described
+above. NIST will collect and evaluate the results in early April using
+the same group of people that created the reference summaries. The DUC
+2002 workshop is planned for mid-July.
+
+Dissemination of DUC work and results other than in the (publicly
+available) conference proceedings is welcomed, but the conditions of
+participation preclude specific advertising claims based on DUC
+results. All summarization results submitted to DUC will be published
+in the Proceedings and archived on the DUC web site.
+
+More information on DUC, including the schedule, the data, and the
+plans for evaluation can be seen on the DUC web site.
+
+                   http://www-nlpir.nist.gov/projects/duc
+
+Organizations wishing to participate in DUC 2002 should respond to
+this call for participation by submitting an application consisting of
+1) contact information (organization name, full mailing address, voice
+and fax phone numbers, email of a main DUC contact) and 2) a short
+paragraph on the organization's summarization approach
+
+All applications should be submitted by January 1 to
+Lori.Buckland@nist.gov.  Any questions concerning DUC should be sent
+to Paul.Over@nist.gov. Late applications may be accepted if resources
+allow, but in no case will training data be released to groups who
+have not applied.

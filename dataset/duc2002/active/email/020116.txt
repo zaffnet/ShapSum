@@ -1,0 +1,34 @@
+Hi,
+
+The documents for DUC 2002 have been chosen and the creation of
+ABSTRACTS
+has started. Now we are in the process of preparing materials for the 
+creation of EXTRACTS: finding the sentence breaks and adding numbering.
+
+Although we have talked about the extracts as sentence extracts, there
+will be sentence fragments in the documents - dates, headlines, bylines,
+locations, items from lists, etc. which might be useful information that
+a human would include in an extract. 
+
+So, unless someone presents a very strong argument to the contrary, we
+plan to allow the human extract creators to include tagged sentence
+fragments as well as full sentences in the extracts they will be
+creating.
+The automatic summarization systems would then be allowed to do the
+same.
+Scoring would not distinguish between fragments and non-fragments,
+anymore
+than it will distinguish between long sentences and short.
+
+Comments? Strong objections?
+
+- Paul
+
+-- 
+Paul Over - Retrieval Group
+            Information Access Division
+            Information Technology Laboratory
+            National Institute of Standards and Technology
+            Bldg. 225  Rm. A211  (Mailstop 8940)
+            Gaithersburg, MD  20899-8940   USA
+            Voice: 301 975-6784    Fax: 301 975-5287

@@ -1,0 +1,20 @@
+The program committee is still working on the program,
+but I thought I'd give you a heads-up on two things.
+
+First, it looks like the workshop will only be
+Thursday and Friday (July 11 and 12).  The first day
+will have 6 accepted papers from various summarization
+projects outside of DUC, plus several panels including
+a panel on revising the current roadmap for summarization
+evaluation and thinking ahead for next year's DUC.
+
+The second day will start with an overview by Paul Over
+on the results of DUC 2002.  Then all the groups who submitted
+requests to talk will have time to talk about their
+work in DUC this year.  More details to follow on this.
+The day will finish up (hopefully before dinner!) with
+discussion of what was learned and a look into the various
+resources that are currently available for summarization
+evaluation.
+
+Donna

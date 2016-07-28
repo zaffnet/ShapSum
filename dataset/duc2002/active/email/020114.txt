@@ -1,0 +1,89 @@
+Dear DUC 2002 participants,
+
+    This is both a status report and a request for help in
+ defining DUC 2002.  There are currently 24 groups signed up
+ to participate, and we expect a few others.  NIST has started
+ building the test data and we will follow the scheduled
+ dates for release.  The workshop has been accepted as a post-ACL 
+ workshop and will take place July 12-13 in Philadelphia 
+ (July 11th will be a day for general summarization papers).  
+
+<http://www-nlpir.nist.gov/projects/duc/duc2002/Acl02SummarizationWorkshop.html>
+
+    What remains to be done are the changes to SEE and some
+ design of new metrics.  I am requesting help now in
+ defining some of the details for the changes to SEE since
+ changes need to be made soon.
+
+    As background, at the end of DUC 2001 there was some 
+ discussion of the problems in the grammar/coherence/organization 
+ part of the evaluation.  For those of you not involved in DUC 2001,
+ there were two main problems.  The first was how to define
+ grammar, coherence and organization such that the NIST
+ assessors had a CLEAR picture of what they were trying to
+ judge.  Their take on grammar tended to reflect very low-level 
+ formatting errors rather than grammar issues that would have a big
+ impact on readability.  The coherence and organization questions
+ were very linked and the assessors had trouble understanding
+ the difference.  These problems were made worse for very short
+ summaries; in fact grammar, coherence and organization made
+ little sense for very short summaries.
+
+ The following is what was sent out after DUC2001 as a summary of 
+ those problems and the solution that was proposed then.
+
+------------------------------------------------------------------
+  Discussion at DUC2001
+
+     Proposed changes to SEE (and the issue that causes them)
+
+     Issue: problems with grammar judgments; scores are generally high
+                but minor problems with definitions
+            problems with definitions of coherence and organization
+                1) assessors could not easily tell these apart
+                2) problems with very short summaries
+     Solution: The pages for SEE will be converted to a series of
+           questions.  There will be three pages; one each for
+           grammar, coherence, and organization.  Each page will
+           have a series of checkoff questions, plus a final box
+           that asks a question similar to this year's about an
+           overall impression.  The scores for these three
+           variables will be calculated based on the answers to
+           the questions.  The overall question will be used as
+           a secondary input.  Some sample questions would be:
+
+               grammar: 
+               coherence: dangling references and unlinked connectives
+               organization: unclear/scrambled time order and
+                         illogical/misleading organization
+
+           If the summary is too short(to be defined), NO
+           questions will be asked and a default score will be
+           defined.
+--------------------------------------------------------------------
+
+   What we need to do now is to come up with some reasonable
+ questions for the grammar, the coherence, and the organization
+ pages.  In particular I would like to generate somewhere between
+ 5 and 10 questions for each of the three areas.  My suggestion for
+ going about this is to ask for a volunteer for each area who will
+ generate a "straw" set of questions and then we can discuss these
+ three straw sets via email.  I realize that not everyone is interested
+ in this, so I will generate smaller email lists of only those
+ people interested.
+
+    So, if you are interested in volunteering (or in volunteering
+ one of your grad students!), please let me know by January 18 so
+ we can get started.  Additionally, if you are interested in being 
+ part of the email group to discuss these issues, let me know this also.  
+ The first order of business once we get organized is to come up with 
+ some guidance for these volunteers.
+
+    Donna 
+   
+   
+
+--------------E3E26F75E7202B1DFC618D7A--
+
+
+

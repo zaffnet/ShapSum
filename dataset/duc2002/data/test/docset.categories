@@ -1,0 +1,37 @@
+Document sets and their categories
+
+Category
+|	Docset
+|       |
+
+
+1	d061 1	d083 1	d089 1  	d085 1  	d091 1  	d103 1  	d097 
+1	d062 1 	d067     1  	d073    1	d077  1  	d079 2	d080 
+1	d107 1  	d109 1  	d115 
+
+2	d063 2	d086 2	d095 2	d101 2	d098 2	d104 
+2	d068 2	d074 2	d084 2	d092 2	d113 2	d116 2	d108 
+2	d110 
+
+
+3	d069 3	d093 3	d096 3	d099  3	d105 3	d111 3	d114 
+3	d117 3	d119 3	d064 3	d071   3	d075 3	d078 3	d081 3	d087 
+
+4	d065  4	d066  4 	d070   4	d072 4	d076 
+4	d082 4	d088 4	d090 4	d094 4	d118 
+4	d100  4	d102 4	d106 4	d112 4	d120 
+
+
+Category definitions:
+
+1 - documents about a single natural disaster event and created within
+    at most a seven day window.
+
+2 - documents about a single event in any domain and created within at
+    most a seven day window
+
+3 - documents about multiple distinct events of a single type (no
+    limit on the time window)
+
+4 - documents that present biographical information mainly about a
+    single individual
